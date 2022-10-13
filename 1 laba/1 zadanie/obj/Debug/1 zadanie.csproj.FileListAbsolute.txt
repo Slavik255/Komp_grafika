@@ -1,0 +1,9 @@
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\1 laba\1 zadanie\bin\Debug\1 zadanie.exe.config
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\1 laba\1 zadanie\bin\Debug\1 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\1 laba\1 zadanie\bin\Debug\1 zadanie.pdb
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\1 laba\1 zadanie\obj\Debug\1 zadanie.csprojAssemblyReference.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\1 laba\1 zadanie\obj\Debug\_1_zadanie.Form1.resources
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\1 laba\1 zadanie\obj\Debug\_1_zadanie.Properties.Resources.resources
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\1 laba\1 zadanie\obj\Debug\1 zadanie.csproj.GenerateResource.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\1 laba\1 zadanie\obj\Debug\1 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\1 laba\1 zadanie\obj\Debug\1 zadanie.pdb
